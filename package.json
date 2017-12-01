@@ -2,7 +2,6 @@
   "name": "tester",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
   "dependencies": {
     "control-loader": "^1.0.2",
     "lodash": "^4.17.4",

@@ -1,5 +1,3 @@
 {
-    "script": "index.js",
-    "defaultScript": "index.js"
-
+    "script": "index.js"
 }
