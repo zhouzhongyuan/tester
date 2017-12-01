@@ -1,4 +1,4 @@
-echo zzy
+echo "zzy"
 echo $PWD
 echo "hook works"
 npm install
