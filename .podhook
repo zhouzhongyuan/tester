@@ -1,0 +1,6 @@
+echo zzy
+echo $PWD
+echo "hook works"
+npm install
+echo "install success"
+npm ls
