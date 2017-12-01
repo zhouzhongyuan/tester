@@ -1,3 +1,5 @@
 {
+    "node_env": "production",
+    "port": 8080,
     "script": "index.js"
 }

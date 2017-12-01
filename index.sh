@@ -7,4 +7,4 @@ npm rm -g pod
 
 npm i -g https://github.com/zhouzhongyuan/pod.git
 
-pod rm t && pod remote t zhouzhongyuan/tester
+pod stop t && pod rm t && pod remote t zhouzhongyuan/tester
